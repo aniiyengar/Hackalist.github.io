@@ -35,6 +35,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "MetroHacks",
+      "url": "http://metrohacks.co/",
+      "startDate": "May 21",
+      "endDate": "May 22",
+      "year": "2016",
+      "city": "Cambridge, MA, United States",
+      "host": "Microsoft",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/amsahacks",
+      "twitterURL": "https://www.twitter.com/metrohacks",
+      "googlePlusURL": "https://plus.google.com/+MetroHacksHS",
+      "notes": ""
     }
   ]
 }
